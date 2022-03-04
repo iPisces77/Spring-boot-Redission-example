@@ -22,6 +22,7 @@ repositories {
 dependencies {
 //    implementation 'org.redisson:redisson:3.16.8'
     implementation'org.redisson:redisson-spring-boot-starter:3.16.8'
+    implementation 'org.redisson:redisson-spring-data-26:3.16.8'
 //    implementation 'org.springframework.boot:spring-boot-starter-data-redis'
     implementation 'org.springframework.boot:spring-boot-starter-web'
 //    compileOnly 'org.projectlombok:lombok'
